@@ -1,0 +1,11 @@
+<!Doctype html>
+<html>
+<head>
+<title>This is my website!</title>
+</head>
+<body>
+
+<h1>This is my public website!</h1>
+
+</body>
+</html>
