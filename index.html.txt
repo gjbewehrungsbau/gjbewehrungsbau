@@ -1,30 +1,57 @@
-<!Doctype html>
-<html>
+<!DOCTYPE html>
+<html lang="de">
+
 <head>
-
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-KP9DJTB3');</script>
-<!-- End Google Tag Manager -->
-
-<meta name="robots"
-content="index"
-<title>This is my website!</title>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Bewehrungsbau fuer Wohngebaeude - Stahlbetonkonstruktion | Dein Unternehmen</title>
+   <meta name="description" content="Erfahren Sie, wie unser Bewehrungsbau-Team sich auf die Stahlbetonkonstruktion fuer Wohngebaeude spezialisiert hat. Expertise, Qualitaet und Langlebigkeit stehen bei uns an erster Stelle. Bewährungsbau für langlebige und hochwertige Stahlbetonkonstruktionen.">
+   <link rel="canonical" href="https://gjbewehrungsbau.de/">
+   <link rel="icon" href="favicon.ico" type="image/x-icon">
+   <link rel="stylesheet" href="styles.css">
+   <script type="application/ld+json">
+      {
+         "@context": "http://schema.org",
+         "@type": "LocalBusiness",
+         "name": "G&J Bewehrungsbau",
+         "description": "Ihr Experte fuer Bewehrungsbau in Leipzig",
+         "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Walter-Heise-Str.12",
+            "addressLocality": "Leipzig",
+            "postalCode": "04288",
+            "addressCountry": "Deutschland"
+         },
+         "telephone": "017669499754",
+         "image": "link-zu-deinem-bild.jpg"
+      }
+   </script>
+   <!-- Social-Media-Meta-Tags -->
+   <meta property="og:title" content="Bewehrungsbau fuer Wohngebaeude - G&J Bewehrungsbau">
+   <meta property="og:description" content="Erfahren Sie mehr ueber unsere Bewehrungsbau-Dienstleistungen in Leipzig. Spezialisiert auf Stahlbetonbewehrung fuer langlebige Bauwerke.">
+   <meta property="og:image" content="link-zu-deinem-bild.jpg">
+   <meta property="og:url" content="https://gjbewehrungsbau.de/">
+   <meta property="og:type" content="website">
 </head>
-<body>
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-KP9DJTB3');</script>
-<!-- End Google Tag Manager -->
 
-<h1>This is my public website!</h1>
-<hr>
-<h4 Style="color:red">the second version.</h4>
+<body>
+   <h1>This is my public website!</h1>
+   <hr>
+   <h4 style="color:red">the second version.</h4>
+
+   <h1>Willkommen auf unserer Bewehrungsbau-Seite</h1>
+   <img src="bewehrungsbau.jpg" alt="Bewehrungsbau in Aktion">
+   <p>Erleben Sie hoechste Qualitaet und Praezision in unserem Bewehrungsbau-Service.</p>
+
+   <h1>Unsere Bewehrungsbauprojekte</h1>
+   <video width="640" height="360" controls>
+      <source src="bewehrungsbau-video.mp4" type="video/mp4">
+      Dein Browser unterstuetzt das Video-Tag nicht.
+   </video>
+   <p>Entdecken Sie unsere abgeschlossenen Bewehrungsbauprojekte in diesem Video.</p>
 </body>
+
 </html>
+
+
+
